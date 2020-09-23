@@ -5,8 +5,10 @@
 | [412]    | [Fizz Buzz](/python/fizz-buzz.py)                             | 64 ms   | 15 MB   | python3  |
 | [771]    | [Jewels and Stones](/python/jewels-and-stones.py)             | 28 ms   | 13.8 MB | python3  |
 | [1108]   | [Defanging an IP Address](/python/defanging-an-ip-address.py) | 24 ms   | 13.7 MB | python3  |
+| [1470]   | [Shuffle the Array](/python/shuffle-the-array.py)             | 64 ms   | 13.8 MB | python3  |
 | [1480]   | [Running Sum of 1d Array](/python/running-sum-of-1d-array.py) | 156 ms  | 13.9 MB | python3  |
 
+[1470]: https://leetcode.com/problems/shuffle-the-array
 [412]: https://leetcode.com/problems/fizz-buzz
 [771]: https://leetcode.com/problems/jewels-and-stones
 [1108]: https://leetcode.com/problems/defanging-an-ip-address
