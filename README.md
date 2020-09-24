@@ -4,6 +4,8 @@ Here are my [leetcode](https://leetcode.com/ofou/) solutions! I'm using this ama
 
 I'm also using [`exercism`](https://github.com/ofou/exercism), [`codesignal`](https://github.com/ofou/codesignal) and [`freeCodeCamp`](https://www.freecodecamp.org/ofou), all great ways to improve your skills further.
 
+------------
+
 | Problem | Solution                                                            | Runtime | Memory  | Language |
 |---------|---------------------------------------------------------------------|---------|---------|----------|
 | [412]   | [Fizz Buzz](/python/412.fizz-buzz.py)                               | 64 ms   | 15 MB   | python3  |
