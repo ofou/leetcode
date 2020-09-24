@@ -1,5 +1,8 @@
 # Leetcode solutions 👨‍💻
 
+> **“It's very attractive to the libertarian viewpoint if we can explain it properly. I'm better with code than with words though.”** \
+> ― Satoshi Nakamoto, _11/14/2008_
+
 Here are my [leetcode](https://leetcode.com/ofou/) solutions! I'm using this amazing platform in order to improve mainly my Algorithmic and Data structures skills and getting closer to the community. I love using this tool to improve my skills because it has great exercises and a cool feature that make easy to compare your solution against the community in terms of efficient use of memory and runtime, plus including great tests for your code. It's taking me *infinite* hours but I'm eager to finish all the problems (1597!), and some of them are VERY hard! I'm tracking my coding time using [rescuetime](https://www.rescuetime.com/rp/ofou/). If you have any comments or suggestions about my code, questions on how to start coding, please [open an issue](https://github.com/ofou/leetcode/issues/new), I'll very happy to help you out, or reciving any kind of feedback from the community!
 
 I'm also using [`exercism`](https://github.com/ofou/exercism), [`codesignal`](https://github.com/ofou/codesignal) and [`freeCodeCamp`](https://www.freecodecamp.org/ofou), all great ways to improve your skills further.
