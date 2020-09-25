@@ -18,7 +18,7 @@ I'm also using [`exercism`](https://github.com/ofou/exercism), [`codesignal`](ht
 | [1470]  | [Shuffle the Array](/python/1470.shuffle-the-array.py)                                               | 64 ms   | 13.8 MB | python3  |
 | [1480]  | [Running Sum of 1d Array](/python/1480.running-sum-of-1-d-array.py)                                  | 156 ms  | 13.9 MB | python3  |
 
-
+[1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies
 [1470]: https://leetcode.com/problems/shuffle-the-array
 [412]: https://leetcode.com/problems/fizz-buzz
 [771]: https://leetcode.com/problems/jewels-and-stones
