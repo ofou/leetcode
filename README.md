@@ -19,9 +19,11 @@ I'm also using [`exercism`](https://github.com/ofou/exercism), [`codesignal`](ht
 | [1431]  | [Kids With the Greatest Number of Candies](/python/1431.kids-with-the-greatest-number-of-candies.py)                         | 44 ms   | 13.8 MB | python3  |
 | [1470]  | [Shuffle the Array](/python/1470.shuffle-the-array.py)                                                                       | 64 ms   | 13.8 MB | python3  |
 | [1480]  | [Running Sum of 1d Array](/python/1480.running-sum-of-1-d-array.py)                                                          | 156 ms  | 13.9 MB | python3  |
+| [1512]  | [Number of Good Pairs](python/1512.number-of-good-pairs.py)                                                                  | 32 ms   | 14.2 MB | python3  |
 | [1528]  | [Shuffle String](/python/1528.shuffle-string.py)                                                                             | 48 ms   | 14.1 MB | python3  |
 | [1598]  | [Crawler Log Folder](/python/1598.crawler-log-folder.py)                                                                     | 48 ms   | 14.4 MB | python3  |
 
+[1512]: https://leetcode.com/problems/number-of-good-pairs
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number
 [1528]: https://leetcode.com/problems/shuffle-string
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero
