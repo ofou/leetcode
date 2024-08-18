@@ -6,7 +6,6 @@
 
 # @lc code=start
 
-from itertools import combinations
 from typing import List
 
 
